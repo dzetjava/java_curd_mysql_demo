@@ -3,7 +3,7 @@ package pojo;
 import java.io.Serializable;
 
 /**
- * 映射数据库表users
+ * 映射数据库表users，需要序列化
  */
 public class Users implements Serializable {
 
